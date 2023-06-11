@@ -1,0 +1,6 @@
+pip install apache-airflow
+Requirement already satisfied
+
+
+airflow db init
+C:\Users\Misha\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe
